@@ -1,0 +1,2 @@
+# StackTraceLib_VBA
+Microsoft Excel VBA においてコードのデバッグを補助する目的で書くプロシージャの呼出関係を記録しワークシートへ書き出すためのライブラリ
